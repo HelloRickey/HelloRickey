@@ -1,6 +1,6 @@
 Hi, I'm Rickey, a nobody in web3.
 
-**The toys I built:**  
+*The toys I built:*
 
 EIP:
 - [EIP-7654:Request Method Types](https://eips.ethereum.org/EIPS/eip-7654)   
