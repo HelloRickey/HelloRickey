@@ -7,7 +7,7 @@ EIP:
 - [EIP-7566:Multiplayer Game Communication](https://eips.ethereum.org/EIPS/eip-7566)  
 
 AI:
-- [Esper AI Agent](https://github.com/AmeNetwork/amer)  
+- [Aser AI Agent](https://github.com/AmeNetwork/aser)  
 - [Model Smart Contract Protocol (MSCP)](https://github.com/AmeNetwork/Model-Smart-Contract-Protocol)
 
 Game:
