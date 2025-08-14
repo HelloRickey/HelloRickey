@@ -15,7 +15,6 @@ Game:
 - [Wiz World](http://wizworld.xyz/)
 
 Application:
-- [Cypher News](https://cypher.news/)
 - [Vibe Board](https://vibeboard.xyz/)
 - [Jutsu Hub](https://jutsuhub.xyz/)
 - [AW Map](https://awmap.xyz/)
